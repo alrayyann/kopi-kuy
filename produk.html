@@ -69,14 +69,13 @@
     <main>
         <section class="riki-block produk text-center my-5 py-5">
             <div class="container">
-                <h1>Pilih Produk Anda</h1>
-                <p class="fs-4">Kualitas terbaik biji kopi pilihan fresh diambil langsung dari petani.</p>
-                <hr class="border border-dark border-3 opacity-75">
+                <h1 class="fw-bold">Pilih Produk Anda!</h1>
+                <p class="fs-4">Dengan kualitas terbaik biji kopi pilihan fresh diambil langsung dari petani.</p>
+                <hr class="border border-dark border-4 opacity-75">
 
                 <!-- Ini Untuk Select -->
                 <div class="form-floating mt-4">
                     <select class="form-select" id="select_kopi">
-                        <option selected disabled>-</option>
                         <option value="Arabica">Arabica</option>
                         <option value="Robusta">Robusta</option>
                         <option value="Non Kopi">Non Kopi</option>
@@ -296,7 +295,7 @@ var data_mentah = {
         console.log("Data Mentah: ", data_mentah)
 
         function updateSelect() {
-            select_kopi.innerHTML = `<option selected disabled>-</option>`
+            select_kopi.innerHTML =
             data_kopi = []
             Object.keys(data_mentah).forEach(opsi => {
                 data_kopi.push(...data_mentah[opsi])
