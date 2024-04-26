@@ -1,0 +1,101 @@
+{
+    "Arabica": [
+      {
+        "foto": "images/produk/product_capuchino.jpg",
+        "nama": "Cappuccino Arabica",
+        "size": "280 ml",
+        "harga": "20.000",
+        "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_espresso.jpg",
+        "nama": "Pahit Arabica",
+        "size": "200 ml",
+        "harga": "15.000",
+        "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_latte.jpg",
+        "nama": "Latte Arabica",
+        "size": "180 ml",
+        "harga": "20.000",
+        "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+      }
+    ],
+    "Robusta": [
+      {
+        "foto": "images/produk/product_kopi_susu.jpg",
+        "nama": "Kopi Susu Robusta",
+        "size": "300",
+        "harga": "80.000",
+        "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+      },
+      {
+        "foto": "https://www.foodandwine.com/thmb/CCe2JUHfjCQ44L0YTbCu97ukUzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Latte-FT-BLOG0523-09569880de524fe487831d95184495cc.jpg",
+        "nama": "Latte Robusta",
+        "size": "260 ml",
+        "harga": "18.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      },
+      {
+        "nama": "Robusta Toraja",
+        "size": "200 ml",
+        "harga": "30.000",
+        "link": "https://www.google.com/search?sca_esv=3eb2b7adee194e22&sca_upv=1&rlz=1C1YTUH_idID1045ID1045&sxsrf=ACQVn0-ZaN0fd8BCA7FSThHa1KCCDgUE3A:1714049392320&q=Robusta+Toraja&tbm=shop&source=lnms&prmd=isvnmbtz&ved=1t:200715&ictx=111&biw=1517&bih=718&dpr=0.9",
+        "foto": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fHw%3D"
+      }
+    ],
+    "Non Kopi": [
+      {
+        "nama": "Es Teh Manis",
+        "size": "350 ml",
+        "harga": "15.000",
+        "link": "https://www.google.com/search?q=Es+Teh+Manis&sca_esv=3eb2b7adee194e22&sca_upv=1&rlz=1C1YTUH_idID1045ID1045&biw=1517&bih=718&tbm=shop&sxsrf=ACQVn081AtKRnHvtjSBAc7yebpho80cYRA%3A1714049393961&ei=cVEqZtz3ObCRseMP9ua2sAw&ved=0ahUKEwic9IPKs92FAxWwSGwGHXazDcYQ4dUDCAg&oq=Es+Teh+Manis&gs_lp=Egtwcm9kdWN0cy1jYyIMRXMgVGVoIE1hbmlzMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5I6QlQAFgAcAB4AJABAJgBb6ABb6oBAzAuMbgBDMgBAPgBAvgBAZgCAaACdZgDAJIHAzAuMaAH2AU&sclient=products-cc",
+        "foto": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg"
+      },
+      {
+        "nama": "Matcha Latte",
+        "size": "200 ml",
+        "harga": "30.000",
+        "link": "https://www.google.com/search?q=Matcha+Latte&sca_esv=3eb2b7adee194e22&sca_upv=1&rlz=1C1YTUH_idID1045ID1045&biw=1517&bih=718&tbm=shop&sxsrf=ACQVn08KvcmYlspehpE2IuXaG0ZpYhk_qA%3A1714049419074&ei=i1EqZrLyA7uOnesPnM29yAY&ved=0ahUKEwjy44DWs92FAxU7R2cHHZxmD2kQ4dUDCAg&oq=Matcha+Latte&gs_lp=Egtwcm9kdWN0cy1jYyIMTWF0Y2hhIExhdHRlMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgYQABgWGB5IkQlQAFgAcAB4AJABAJgBcKABcKoBAzAuMbgBDMgBAPgBAvgBAZgCAaACdpgDAJIHAzAuMaAH7wQ&sclient=products-cc",
+        "foto": "https://cdn.loveandlemons.com/wp-content/uploads/2023/06/iced-matcha-latte.jpg"
+      },
+      {
+        "nama": "Strawberry Milkshake",
+        "size": "250 ml",
+        "harga": "10.000",
+        "link": "https://www.google.com/search?sca_esv=3eb2b7adee194e22&sca_upv=1&rlz=1C1YTUH_idID1045ID1045&sxsrf=ACQVn0_F06H15imx36JbvwRSbP4ohowpkA:1714049802907&q=strawberry+milkshake&tbm=shop&source=lnms&prmd=isvnmbtz&ved=1t:200715&ictx=111&biw=1517&bih=718&dpr=0.9",
+        "foto": "https://www.thehungrybites.com/wp-content/uploads/2023/06/Strawberry-milkshake-frappuccino-featured.jpg"
+      }
+    ],
+    "Makanan": [
+      {
+        "nama": "Brownies",
+        "size": "100 gr",
+        "harga": "30.000",
+        "link": "https://www.google.com/search?q=Brownies&sca_esv=3eb2b7adee194e22&sca_upv=1&rlz=1C1YTUH_idID1045ID1045&biw=1517&bih=718&tbm=shop&sxsrf=ACQVn0_qQ7RHmj46fqALSRuV4v7vVa_xGw%3A1714049436469&ei=nFEqZp3RG4HcseMP_fm2yAM&ved=0ahUKEwidj6bes92FAxUBbmwGHf28DTkQ4dUDCAg&oq=Brownies&gs_lp=Egtwcm9kdWN0cy1jYyIIQnJvd25pZXMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESJUIUABYAHAAeACQAQCYAdwDoAHcA6oBAzQtMbgBDMgBAPgBAvgBAZgCAaAC4wOYAwCSBwM0LTGgB9IE&sclient=products-cc",
+        "foto": "https://www.astronauts.id/blog/wp-content/uploads/2023/01/Resep-Brownies-Panggang-dan-Tips-Membuatnya-1024x683.jpg"
+      },
+      {
+        "nama": "Croissant",
+        "size": "150 gr",
+        "harga": "40.000",
+        "link": "https://www.google.com/search?q=Croissant&sca_esv=3eb2b7adee194e22&sca_upv=1&rlz=1C1YTUH_idID1045ID1045&biw=1517&bih=718&tbm=shop&sxsrf=ACQVn083EwI2iXD9YdbyAMtLKMc5le1s4g%3A1714049589976&ei=NVIqZprgOuyO4-EP9LGwqA8&ved=0ahUKEwjazr-ntN2FAxVsxzgGHfQYDPUQ4dUDCAg&uact=5&oq=Croissant&gs_lp=Egtwcm9kdWN0cy1jYyIJQ3JvaXNzYW50MgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEj-EFDYCVjYCXAAeACQAQCYAWKgAboBqgEBMrgBA8gBAPgBAvgBAZgCAqACxgHCAgQQIxgnwgIKEAAYgAQYQxiKBZgDAIgGAZIHAzEuMaAH1Qo&sclient=products-cc",
+        "foto": "https://depastry-homemade.com/wp-content/uploads/2023/06/Croissant.png"
+      },
+      {
+        "nama": "Custard Pudding",
+        "size": "110 gr",
+        "harga": "20.000",
+        "link": "https://www.google.com/search?q=Custard+Pudding&sca_esv=3eb2b7adee194e22&sca_upv=1&rlz=1C1YTUH_idID1045ID1045&biw=1517&bih=718&tbm=shop&sxsrf=ACQVn0-1wLb0Gk6y65v1XLNQxk6xFvE4EQ%3A1714049615461&ei=T1IqZp2qG-ng4-EP5smuiAg&ved=0ahUKEwjdjdOztN2FAxVp8DgGHeakC4EQ4dUDCAg&oq=Custard+Pudding&gs_lp=Egtwcm9kdWN0cy1jYyIPQ3VzdGFyZCBQdWRkaW5nMgUQABiABDIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkidBlAAWABwAHgAkAEAmAFYoAFYqgEBMbgBDMgBAPgBAvgBAZgCAaACXZgDAJIHATGgB48F&sclient=products-cc",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHoBv_zaambnrKqFFtqU4_xw5yyugPw3Say1p3nSWJZg&s"
+      },
+      {
+        "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+        "nama": "Ice Cream",
+        "size": "100 ml",
+        "harga": "10.000",
+        "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"  
+      }
+    ]
+  }
