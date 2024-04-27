@@ -25,7 +25,7 @@
         "foto": "images/produk/product_kopi_susu.jpg",
         "nama": "Kopi Susu Robusta",
         "size": "300",
-        "harga": "80.000",
+        "harga": "20.000",
         "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
       },
       {
@@ -59,7 +59,7 @@
       {
         "nama": "Strawberry Milkshake",
         "size": "250 ml",
-        "harga": "10.000",
+        "harga": "30.000",
         "link": "https://www.google.com/search?sca_esv=3eb2b7adee194e22&sca_upv=1&rlz=1C1YTUH_idID1045ID1045&sxsrf=ACQVn0_F06H15imx36JbvwRSbP4ohowpkA:1714049802907&q=strawberry+milkshake&tbm=shop&source=lnms&prmd=isvnmbtz&ved=1t:200715&ictx=111&biw=1517&bih=718&dpr=0.9",
         "foto": "https://www.thehungrybites.com/wp-content/uploads/2023/06/Strawberry-milkshake-frappuccino-featured.jpg"
       },
@@ -88,7 +88,7 @@
         "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
         "nama": "Ice Cream",
         "size": "100 ml",
-        "harga": "10.000",
+        "harga": "20.000",
         "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"  
       }
     ],
