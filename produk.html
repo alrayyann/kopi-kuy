@@ -233,7 +233,7 @@
                 </div>
 
                 <div class="col-12 col-md-4 mt-4 mt-md-0 text-center text-md-right">
-                    &copy; Kopi kuy dan Team 2024.
+                    &copy; Kopi kuy dan Team 2024
                 </div>
             </div>
         </div>
@@ -295,7 +295,7 @@ var data_mentah = {
         console.log("Data Mentah: ", data_mentah)
 
         function updateSelect() {
-            select_kopi.innerHTML =
+            select_kopi.innerHTML = `<option selected disabled>☕︎</option>`
             data_kopi = []
             Object.keys(data_mentah).forEach(opsi => {
                 data_kopi.push(...data_mentah[opsi])
@@ -347,7 +347,7 @@ var data_mentah = {
             console.log("data dari luar: ", data)
             data_mentah = data
             updateSelect()
-            //baris_produk.innerHTML = ""
+            baris_produk.innerHTML = ""
         })
 
     </script>
